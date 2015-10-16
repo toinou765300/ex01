@@ -10,7 +10,9 @@ public class depart {
 	public static void Bizz (int n, int x) {
 		
 		System.out.println(n);
-		System.out.println(n);
+		x=x+n;
+		System.out.println(x);
+		
 		
 	}	
 
